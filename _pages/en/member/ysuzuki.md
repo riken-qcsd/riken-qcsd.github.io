@@ -25,10 +25,10 @@ lang: en
 
 ## Funding
 
-- 2025–2027: HPCI Infrastructure Development Program, Hybrid (Collaborative) Quantum–Classical Operational Environment  
-- 2025–2030: CREST Quantum Frontier, Development and systematization of photonic quantum technology packages  
-- 2021–2030: Moonshot Goal 6 Fault-Tolerant Universal Quantum Computers, Theory and Software Project
-- 2019–2023: PRESTO Quantum Software, Faule-tolerant quantum computing based on heterogeneous device and control
+- 2025–2027: HPCI Infrastructure Development Program, Hybrid (Collaborative) Quantum–Classical Operational Environment (collaborator)
+- 2025–2030: CREST Quantum Frontier, Development and systematization of photonic quantum technology packages (collaborator)
+- 2021–2030: Moonshot Goal 6 Fault-Tolerant Universal Quantum Computers, Theory and Software Project (collaborator)
+- 2019–2023: PRESTO Quantum Software, Faule-tolerant quantum computing based on heterogeneous device and control (director)
 - 2014–2017: Advanced Leading Graduate Course for Photon Science (ALPS)
 
 

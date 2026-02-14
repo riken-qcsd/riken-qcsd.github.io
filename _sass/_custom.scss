@@ -1,0 +1,29 @@
+.page, .masthead, .page__content, .page__footer, .page__hero--overlay {
+  animation: none !important;
+}
+html {
+  font-size: 18px;
+}
+.page__content h2 {
+  border-left: 4px solid #2c6bed;
+  padding-left: 0.6rem;
+}
+.masthead, .masthead a, .masthead__menu-item {
+  font-family: Consolas, "Cascadia Code", "Fira Code",
+               "Source Code Pro", Menlo, Monaco,
+               "Courier New", monospace;
+}
+.page__content {
+  font-family:
+    "Noto Sans JP",
+    "Hiragino Kaku Gothic ProN",
+    "Yu Gothic",
+    "Meiryo",
+    sans-serif;
+  line-height: 1.75;
+}
+.site-title {
+  font-family: Consolas, "Cascadia Code", monospace;
+  letter-spacing: 0.5px;
+  font-weight: 600;
+}

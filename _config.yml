@@ -1,0 +1,32 @@
+title: "Quantum Computer System Design Research Team"
+description: "Webpage for Quantum Computer System Design Research Team in RIKEN"
+url: "https://riken-qcsd.github.io"
+baseurl: ""
+
+remote_theme: "mmistakes/minimal-mistakes"
+
+plugins:
+  - jekyll-include-cache
+
+include:
+  - _pages
+
+author_profile: false
+powered_by: false
+google_fonts: false
+search: false
+
+minimal_mistakes_skin: "default"
+
+atom_feed:
+  hide: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: splash
+      header:
+        overlay_color: "#5792ff"
+        overlay_filter: 0.5

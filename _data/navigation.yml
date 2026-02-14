@@ -1,0 +1,15 @@
+main:
+  - title: "English"
+    url: /en/
+  - title: "トップ"
+    url: /
+  - title: "研究内容"
+    url: /research/
+  - title: "メンバー"
+    url: /member/
+  - title: "研究業績"
+    url: /publication/
+  - title: "採用情報"
+    url: /recruit/
+  - title: "学生の方へ"
+    url: /student/

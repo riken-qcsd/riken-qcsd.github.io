@@ -1,0 +1,15 @@
+main:
+  - title: "jp"
+    url: /
+  - title: "Top"
+    url: /en/
+  - title: "Research"
+    url: /en/research/
+  - title: "Member"
+    url: /en/member/
+  - title: "Publication"
+    url: /en/publication/
+  - title: "Recruit"
+    url: /en/recruit/
+  - title: "For student"
+    url: /en/student/

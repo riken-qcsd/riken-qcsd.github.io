@@ -8,8 +8,7 @@ lang: en
 
 ## Current Positions
 
-- Team Director, Quantum Computer System Design Research Team,  
-  RIKEN Center for Quantum Computing  
+- Team Director, Quantum Computer System Design Research Team, Center for Quantum Computing, RIKEN 
 - Visiting Assistant Professor, Quantum Computing System Center, Kyushu University  
 - Invited Associate Professor, Center for Quantum Information and Quantum Biology, The University of Osaka
 

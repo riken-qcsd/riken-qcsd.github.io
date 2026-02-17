@@ -5,12 +5,12 @@ permalink: /en/
 lang: en
 ---
 
-The Quantum Computer System Design Research Team is a research team within the RIKEN Center for Quantum Computing (RQC), established in 2025.
+Quantum Computer System Design Research Team is a research team within the RIKEN Center for Quantum Computing (RQC), established in 2025.
 
 Our team conducts research and development on computer systems and software to realize practical and reliable quantum computers, so-called fault-tolerant quantum computers (FTQC). In particular, we explore design methodologies for efficient and highly scalable quantum computers from the perspectives of modern computer science and software engineering, with an emphasis on translating complex and highly abstract theories and tasks into concrete designs and implementations. We also work closely with teams across various quantum-computing development projects to advance toward practical-scale fault-tolerant quantum computers.
 
 ## Research Topics
-The Quantum Computer System Design Research Team works on topics related to fault-tolerant quantum computing, including the following.  
+Quantum Computer System Design Research Team works on topics related to fault-tolerant quantum computing, including the following.  
 For more details, please refer to [Research](./research/) and [Publications](./publication/).
 
 - **Computer Architecture:** We propose computer architectures for high-performance fault-tolerant quantum computers by applying concepts and principles from modern computer systems.
@@ -24,4 +24,4 @@ For information on how to join the team, please see [Recruitment](./recruit/). I
 
 ## Access
 Address: W418, Research Exchange Building, RIKEN, 2-1 Hirosawa, Wako, Saitama 351-0198, Japan ([Access](https://www.riken.jp/access/wako-map/))  
-Email: yasunari.suzuki--at--riken.jp (replace `--at--` with `@`)
+Email: yasunari.suzuki`--at--`riken.jp (replace `--at--` with `@`)

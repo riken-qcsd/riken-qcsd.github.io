@@ -4,9 +4,9 @@ permalink: /en/research/
 lang: en
 ---
 
-Our research team works on themes such as those listed below. We are also interested in a wide range of topics that may fall outside these categories, as long as they can contribute to the development of practical quantum computers.
+Our team works on themes such as those listed below. We are also interested in a wide range of topics that may fall outside these categories, as long as they can contribute to the development of practical quantum computers.
 
-For a complete list of papers and talks, please see [Publications](../publication/). For information aimed at students, please refer to the [For Students](../student/) page.
+For a complete list of papers and talks, please see [Publications](../publication/). For information to students, please refer to the [For Students](../student/) page.
 
 ## Computer Architecture
 
@@ -55,7 +55,7 @@ To realize quantum computers, a variety of quantum devices, such as superconduct
 - **Handling device variability:** By storing qubit-parameter variability in compressed tables, we enabled fast, variability-aware error estimation on FPGAs.  
   [ASPDAC2023](https://ieeexplore.ieee.org/document/10044818)
 - **Evaluating the impact of leakage errors:** We evaluated the impact of leakage errors, in which qubits leave the computational subspace.  
-  [NJP](https://arxiv.org/abs/2308.08186)
+  [NJP2025](https://arxiv.org/abs/2308.08186)
 - **Evaluating the impact of coherent errors:** We proposed an efficient method to evaluate the impact of coherent rotation errors on qubits.  
   [PRL2017](https://arxiv.org/abs/1703.03671)
 - **Mitigating loss errors:** Using information available when loss-type errors occur (e.g., in photonic systems), we improved the accuracy and speed of error estimation.  

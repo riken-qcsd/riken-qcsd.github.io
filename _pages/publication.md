@@ -43,6 +43,7 @@ lang: ja
 
 ## プレプリント
 
+1. Yuga Hirai, Shota Ikari, Yosuke Ueno, Yasunari Suzuki, "No More Hooks in the Surface Code: Distance-Preserving Syndrome Extraction for Arbitrary Layouts at Minimum Depth", arxiv preprint arXiv:2603.01628 (2026)
 1. Soshun Naito, Yasunari Suzuki, Yuuki Tokunaga, “Network-Based Quantum Computing: an efficient design framework for many-small-node distributed fault-tolerant quantum computing”, arxiv preprint arXiv:2601.09374 (2026)
 1. Kaito Wada, Hiroyuki Harada, Yasunari Suzuki, Yuuki Tokunaga, Naoki Yamamoto, Suguru Endo, “Tradeoffs between quantum and classical resources in linear combination of unitaries”, arxiv preprint arXiv:2512.06260 (2025)
 1. Wenxuan Fan, Yasunari Suzuki, Gokul Subramanian Ravi, Yosuke Ueno, Koji Inoue, Teruo Tanimoto, “Accelerating BP-OSD Decoder for QLDPC Codes with Local Syndrome-Based Preprocessing”, arxiv preprint arXiv:2509.01892 (2025)
@@ -62,6 +63,7 @@ lang: ja
 
 1. Quantum Circuit Simulator: Qulacs [github](https://github.com/qulacs/qulacs)
 1. Measurement software for Superconducting Quantum Computer: A [release](https://www.riken.jp/pr/news/2023/20231005_1/index.html)
+1. Quration: Quantum Resource Estimation Toolchain [github](https://github.com/quration/quration)
 
 
 ## 国際会議 (査読あり、出版なし)
@@ -114,6 +116,9 @@ lang: ja
 
 ## 国内会議
 
+1. 小松 一彦, 髙木 崇志, 佐藤 雅之, 伊達 進, 片桐 孝洋, 百瀬 真太郎, 高野 了成, 深見 俊輔, 谷本 輝夫, 永山 翔太, 鈴木 泰成, "HPCI整備計画調査研究 量子等ハイブリッド（連携）運用環境による次世代計算基盤環境の構築を目指して", 第203回ハイパフォーマンスコンピューティング・第17回量子ソフトウェア合同研究発表会 (2026)
+1. 猪狩 翔太, 平井 優我, 上野 洋典, 鈴木 泰成, 山本 直樹, 中村 宏, "表面符号上のTransversal CNOTゲートを対象としたwindow decoderの検討", 第203回ハイパフォーマンスコンピューティング・第17回量子ソフトウェア合同研究発表会 (2026)
+1. Wenxuan Fan, Yasunari Suzuki, Gokul, Ravi, Yosuke Ueno, Koji Inoue, Teruo Tanimoto, "Generalization and Comprehensive Evaluation of BP-OSD Acceleration via Local Syndrome-Based Preprocessing for QLDPC Codes", 第203回ハイパフォーマンスコンピューティング・第17回量子ソフトウェア合同研究発表会 (2026)
 1. 小林拓海, 黒川穂高, 鈴木泰成, 小坂英男, “光接続超伝導量子プロセッサにおける物理・論理もつれ生成レートおよび忠実度の高効率化”, 第86回応用物理学会秋季学術講演会 (2025)
 1. 小堀拓生, 鈴木泰成, 上野洋典, 谷本輝夫, 藤堂眞治, 徳永裕己, “限定的規模の誤り耐性量子計算に向けた高メモリ効率なロードストア量子計算機アーキテクチャ”, 第52回量子情報技術研究会 (2025)
 1. 長谷川 駿, 鈴木 泰成, 徳永 裕己, “再配置可能な中性原子アレイとHGP符号を用いた誤り耐性量子計算機における効率的な論理計算方式の提案”, 第198回ハイパフォーマンスコンピューティング・第14回量子ソフトウェア合同研究発表会 (2025)
@@ -165,6 +170,8 @@ lang: ja
 
 ## 招待講演 (国内)
 
+1. 鈴木泰成, “誤り耐性量子計算機のシステム設計と課題”, ムーンショット目標6 公開シンポジウム2026 ～誤り耐性型汎用量子コンピュータの実現を目指して～ (2026)
+1. Yasunari Suzuki, "Design and Development of Fault-Tolerant Quantum Computers", Q-LEAP Workshop: Towards Building a Large-Scale Quantum Computer (2026)
 1. Yasunari Suzuki, “Efficient FTQC designs based on properties of quantum programs”, Quantum Error Correction Theory Workshop for Young Researchers (2025)
 1. 鈴木泰成, “拡張性の高い誤り体制量子計算機の開発”, 応用物理学会・量子エレクトロニクス研究会　量子コンピュータ研究の最前線　～ハードウェアから応用・連携技術まで～ (2025)
 1. 鈴木泰成, “誤り耐性量子計算機のシステム設計と課題”, ムーンショット目標6 作りこみ合宿 (2025)

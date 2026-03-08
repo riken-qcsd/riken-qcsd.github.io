@@ -4,7 +4,7 @@ permalink: /publication/
 lang: ja
 ---
 
-## 原著論文 (論文誌)
+## 原著論文 (査読付き論文誌)
 
 1. Yuya Maeda, Yasunari Suzuki, Toshiki Kobayashi, Takashi Yamamoto, Yuuki Tokunaga, Keisuke Fujii, “Logical entanglement distribution between distant 2D array qubits”, Physical Review Research, accepted (2026)
 1. Yoshiki Sunada, Shingo Kono, Jesper Ilves, Takanori Sugiyama, Yasunari Suzuki, Tsuyoshi Okubo, Shuhei Tamate, Yutaka Tabuchi, Yasunobu Nakamura, “Efficient tomography of microwave photonic cluster states”, PRX Quantum 7, 010323 (2026)

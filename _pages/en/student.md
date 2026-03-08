@@ -13,7 +13,7 @@ Because many of our research themes are grounded in how conventional computers w
 - Improving quantum computer efficiency by running multiple programs concurrently: [QS9](https://ipsj.ixsq.nii.ac.jp/records/226758) (2023) [QS14](https://ipsj.ixsq.nii.ac.jp/records/2001303) (2025) **Student Encouragement Award**
 - Reducing the required device scale by placing infrequently used data in slower but more efficient memory: [QS11](https://ipsj.ixsq.nii.ac.jp/records/233693) (2024) **Best Presentation Award**
 - Accelerating distributed quantum computing by overlapping communication and computation: [QS14](https://ipsj.ixsq.nii.ac.jp/records/2001242) (2025)
-- Improving speed while maintaining accuracy by switching quantum error-correction methods depending on the situation: [QS16](./) (2026)
+- Improving speed while maintaining accuracy by switching quantum error-correction methods depending on the situation: QS16 (2026)
 
 ## Streamlining internal processing in quantum computers using algorithms and data structures
 - Efficiently managing locations affected by special quantum errors such as loss errors using a Fenwick tree: [QS5](https://ipsj.ixsq.nii.ac.jp/records/217649) (2022) **Best Presentation Award**

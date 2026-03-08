@@ -9,7 +9,7 @@ lang: en
 ## Current Positions
 
 - Team Director, Quantum Computer System Design Research Team, Center for Quantum Computing, RIKEN 
-- Visiting Assistant Professor, Quantum Computing System Center, Kyushu University  
+- Visiting Associate Professor, Quantum Computing System Center, Kyushu University  
 - Invited Associate Professor, Center for Quantum Information and Quantum Biology, The University of Osaka
 
 
@@ -21,6 +21,7 @@ lang: en
 - 2018–2022: Secure Platform Laboratories, NTT Corporation  
 - 2022–2025: Computer & Data Science Laboratories, NTT Corporation  
 - 2025–Present: Quantum Computer System Design Research Team, RIKEN Center for Quantum Computing  
+
 
 ## Funding
 

@@ -48,9 +48,9 @@ permalink: /topological_code_demo/
         initial_syndrome: [],
         initial_error: [[],[]],
     };
-    const num_error_SC = 7;
+    const num_flip_SC = 7;
     const num_syndrome_SC = (distance*distance-1)/2;
-    const values_SC = Array.from({ length: num_error_SC }, () => Math.floor(Math.random() * num_syndrome_SC));
+    const values_SC = Array.from({ length: num_flip_SC }, () => Math.floor(Math.random() * num_syndrome_SC));
     const surface_code_decode = {
         size: 1000,
         type: "surface_code",
@@ -70,9 +70,9 @@ permalink: /topological_code_demo/
         bind_stabilizer: true,
         initial_syndrome: [],
     };
-    const num_error_CC666 = 4;
+    const num_flip_CC666 = 4;
     const num_syndrome_CC666 = ((3*distance*distance+1)/4-1)/2;
-    const values_CC = Array.from({ length: num_error_CC666 }, () => Math.floor(Math.random() * num_syndrome_CC666));
+    const values_CC = Array.from({ length: num_flip_CC666 }, () => Math.floor(Math.random() * num_syndrome_CC666));
     const color_code_666_decode = {
         size: 1000,
         type: "color_code_666",

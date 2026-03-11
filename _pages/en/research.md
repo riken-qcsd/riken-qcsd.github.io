@@ -5,7 +5,6 @@ lang: en
 ---
 
 Our team works on themes such as those listed below. We are also interested in a wide range of topics that may fall outside these categories, as long as they can contribute to the development of practical quantum computers.
-
 For a complete list of papers and talks, please see [Publications](../publication/). For information to students, please refer to the [For Students](../student/) page.
 
 ## Computer Architecture

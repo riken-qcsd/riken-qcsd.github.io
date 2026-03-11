@@ -1,0 +1,90 @@
+---
+title: "トポロジカル符号のエラー訂正"
+permalink: /topological_code_demo/
+---
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/two.js/0.7.8/two.min.js"></script>
+<script src="/assets/js/topological_code_drawer.js"></script>
+
+## 表面符号
+
+- 頂点: Zスタビライザー　エラーと反可換な時に赤くなる
+- 辺：データ量子ビット　Xエラーが起きているときに赤くなる　押すことでXエラーを発生させる
+- 面: Xスタビライザー　押すことで現在のエラーにスタビライザーを掛け算する
+
+<div id="surface_code"></div>
+
+## 表面符号のエラー推定
+
+- エラー推定：全ての頂点の赤い輪郭を消す際に、必要な赤い辺の数を最小化する
+
+<div id="surface_code_decode"></div>
+
+## 666 Color code
+
+- 頂点：データ量子ビット　Xエラーが起きているときに黒くなる　押すことでXエラーを発生させる
+- 面: Zスタビライザー　Xエラーと反可換な時に明るくなる
+- 面: Xスタビライザー　押すことでXエラーを発生させる
+
+<div id="color_code_666"></div>
+
+## 666 Color codeのエラー推定
+
+- エラー推定：全ての明るい面を薄くする際に、必要な黒い頂点数を最小化する
+
+<div id="color_code_666_decode"></div>
+
+<script>
+    const surface_code = {
+        size: 1000,
+        type: "surface_code",
+        show_primal: true,
+        show_dual: false,
+        bind_error: true,
+        bind_stabilizer: true,
+        distance: 7,
+        initial_syndrome: [],
+        initial_error: [[],[]],
+    };
+    const surface_code_decode = {
+        size: 1000,
+        type: "surface_code",
+        show_primal: true,
+        show_dual: false,
+        bind_error: true,
+        bind_stabilizer: true,
+        distance: 7,
+        initial_syndrome: [5, 8, 11, 15],
+        initial_error: [[],[]],
+    };
+    const color_code_666 = {
+        size: 1000,
+        type: "color_code_666",
+        distance: 7,
+        bind_error: true,
+        bind_stabilizer: true,
+        initial_syndrome: [],
+    };
+    const color_code_666_decode = {
+        size: 1000,
+        type: "color_code_666",
+        distance: 7,
+        bind_error: true,
+        bind_stabilizer: true,
+        initial_syndrome: [5, 8, 10],
+    };
+    Math.random()
+    dict = {
+        "surface_code": surface_code,
+        "surface_code_decode": surface_code_decode,
+        "color_code_666": color_code_666,
+        "color_code_666_decode": color_code_666_decode,
+    }
+    for (let name in dict) {
+        info = dict[name];
+        const element = document.getElementById(name);
+        const obj = new TopologicalCodeDrawer(element, info);
+        obj.draw();
+    }
+</script>

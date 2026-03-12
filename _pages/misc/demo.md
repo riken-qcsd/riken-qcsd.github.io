@@ -35,9 +35,9 @@ permalink: /topological_code_demo/
 
 <div id="color_code_666_decode"></div>
 
-## 実用規模のエラー推定
+## 量子優位性に必要な規模のインスタンス
 
-<div id="surface_code_large"></div>
+<div id="surface_code_decode_large"></div>
 
 <div id="color_code_666_decode_large"></div>
 
@@ -90,8 +90,9 @@ permalink: /topological_code_demo/
         initial_syndrome: values_CC,
     };
 
-    const num_syndrome_SC_large = (23*23-1)/2;
-    const num_flip_SC_large = Math.floor(num_syndrome_SC_large*0.05);
+    const large_distance = 23;
+    const num_syndrome_SC_large = (large_distance*large_distance-1)/2;
+    const num_flip_SC_large = Math.floor(num_syndrome_SC_large*0.1);
     const values_SC_large = Array.from({ length: num_flip_SC_large }, () => Math.floor(Math.random() * num_syndrome_SC_large));
     const surface_code_decode_large = {
         size: 1000,
@@ -100,23 +101,22 @@ permalink: /topological_code_demo/
         show_dual: false,
         bind_error: true,
         bind_stabilizer: true,
-        distance: 23,
+        distance: large_distance,
         initial_syndrome: values_SC_large,
         initial_error: [[],[]],
     };
 
-    const num_flip_CC666_large = 4;
-    const num_syndrome_CC666_large = ((3*23*23+1)/4-1)/2;
+    const num_syndrome_CC666_large = ((3*large_distance*large_distance+1)/4-1)/2;
+    const num_flip_CC666_large = Math.floor(num_syndrome_CC666_large*0.1);
     const values_CC_large = Array.from({ length: num_flip_CC666_large }, () => Math.floor(Math.random() * num_syndrome_CC666_large));
     const color_code_666_decode_large = {
         size: 1000,
         type: "color_code_666",
-        distance: 23,
+        distance: large_distance,
         bind_error: true,
         bind_stabilizer: true,
         initial_syndrome: values_CC_large,
     };
-    Math.random()
     dict = {
         "surface_code": surface_code,
         "surface_code_decode": surface_code_decode,

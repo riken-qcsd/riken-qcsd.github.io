@@ -7,7 +7,7 @@ lang: ja
 
 ## スタッフ
 - [鈴木 泰成](./ysuzuki/) / チームディレクター / FTQCのシステム設計 / yasunari.suzuki--at--riken.jp
-- 井元 隆史 / 特別研究員
+- [井元 隆史](./timoto/) / 特別研究員 / qLDPC符号, リソース見積もり, 量子ダイナミクス, 数理物理学 / takashi.imoto--at--riken.jp
 
 ## 連携学生 (研修生など)
 

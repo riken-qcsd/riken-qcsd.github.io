@@ -12,7 +12,9 @@ RIKEN recruits researchers who have recently obtained a Ph.D., or who expect to 
 
 The Quantum Computer System Design Research Team is also recruiting postdoctoral researchers. For details and employment conditions, please refer to the [team’s recruitment page](https://www.riken.jp/en/careers/researchers/20250401_2/index.html).
 
-## Positions for Students at universities in Japan
+## Positions for Students
+
+At the Department of Applied Physics, Graduate School of Engineering, The University of Tokyo, Team Director Suzuki will head a laboratory as a Visiting Associate Professor. For the 2026 and 2027 academic years, students may apply to enter the master's or doctoral program through the department's graduate admissions process. Please check the [Graduate Admissions Information](https://www.ap.t.u-tokyo.ac.jp/en/information.html) for the Department of Applied Physics for the relevant academic year for further details.
 
 You may be eligible to apply for the Junior Research Associate (JRA) program for graduate students. The JRA program allows you to conduct research at RIKEN while remaining enrolled as a Ph.D. student at your university. Positions are offered through an open call, and the program enables you to pursue independent research while receiving a salary comparable to or higher than that of other fellowships such as JSPS. For details, please see the [JRA call for applications](https://www.riken.jp/en/careers/programs/jra/index.html). If you would like to request assignment to our research team when applying, please contact a faculty member in advance.
 

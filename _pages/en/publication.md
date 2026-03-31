@@ -7,6 +7,7 @@ lang: en
 
 ## Original paper (Peer-reviewed journal)
 
+1. Kou Hamada, Yasunari Suzuki, Yuuki Tokunaga, “Efficient and high-performance routing of lattice-surgery paths on three-dimensional lattice”, Quantum, Accepted (2026)
 1. Yuya Maeda, Yasunari Suzuki, Toshiki Kobayashi, Takashi Yamamoto, Yuuki Tokunaga, Keisuke Fujii, “Logical entanglement distribution between distant 2D array qubits”, Physical Review Research, accepted (2026)
 1. Yoshiki Sunada, Shingo Kono, Jesper Ilves, Takanori Sugiyama, Yasunari Suzuki, Tsuyoshi Okubo, Shuhei Tamate, Yutaka Tabuchi, Yasunobu Nakamura, “Efficient tomography of microwave photonic cluster states”, PRX Quantum 7, 010323 (2026)
 1. Tim Keller, Seigo Kikura, Rui Asaoka, Yasunari Suzuki, Yuuki Tokunaga, Takao Aoki, “Addressing requirements for crosstalk-free quantum-gate operation in many-body nanofiber cavity QED systems”, Journal of the Optical Society of America B 43, 2, pp.351-365 (2026)
@@ -55,7 +56,6 @@ lang: en
 1. Kaoru Yamamoto, Yuichiro Matsuzaki, Yasunari Suzuki, Yuuki Tokunaga, Suguru Endo, “Virtual entanglement purification via noisy entanglement”, arxiv preprint arXiv:2411.10024 (2024)
 1. Yutaka Hirano, Yasunari Suzuki, Keisuke Fujii, “MagicPool: Dealing with Magic State Distillation Failures on Large-Scale Fault-Tolerant Quantum Computer”, arxiv preprint arXiv:2407.07394 (2024)
 1. Suguru Endo, Keitaro Anai, Yuichiro Matsuzaki, Yuuki Tokunaga, Yasunari Suzuki, “Projective squeezing for translation symmetric bosonic codes”, arxiv preprint arXiv:2403.14218 (2024)
-1. Kou Hamada, Yasunari Suzuki, Yuuki Tokunaga, “Efficient and high-performance routing of lattice-surgery paths on three-dimensional lattice”, arxiv preprint arXiv:2401.15829 (2024)
 1. Yosuke Ueno, Masaaki Kondo, Masamitsu Tanaka, Yasunari Suzuki, Yutaka Tabuchi, "NEO-QEC: Neural Network Enhanced Online Superconducting Decoder for Surface Codes“, arxiv preprint arXiv:2208.05758 (2022)
 1. Masahiro Fujii, Ryosuke Kutsuzawa, Yasunari Suzuki, Yoshihumi Nakata, Masaki Owari, “Characterizing quantum psuedorandomness by machine learning”, arxiv preprint arXiv:2205.14667 (2022)
 1. Kentaro Heya, Yasunari Suzuki, Yasunobu Nakamura, Keisuke Fujii, “Variational Quantum Gate Optimization”, arxiv preprint arXiv:1810.12745 (2018)

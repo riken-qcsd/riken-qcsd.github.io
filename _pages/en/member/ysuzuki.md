@@ -10,7 +10,9 @@ lang: en
 
 - Team Director, Quantum Computer System Design Research Team, Center for Quantum Computing, RIKEN 
 - Visiting Associate Professor, Quantum Computing System Center, Kyushu University  
-- Invited Associate Professor, Center for Quantum Information and Quantum Biology, The University of Osaka
+- Project Associate Professor, Center for Quantum Information and Quantum Biology, The University of Osaka
+- Guest Professor, Department of Photo-Molecular Science, Institute for Molecular Science
+- Guest Associate Professor, Department of Applied Physics, Graduate School of Engineering, The University of Tokyo
 
 
 ## Professional Experience

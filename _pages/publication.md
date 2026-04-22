@@ -31,6 +31,7 @@ lang: ja
 
 ## 原著論文 (査読付き国際会議)
 
+1. Qi Zanhe, David Clarino, Shigeru Yamashita, Yasunari Suzuki, "Reducing T-depth in Quantum Oracles via Simultaneous Decomposition of MCT Gates", IEEE International Symposium on Multiple-Valued Logic 2026, Accepted (2026)
 1. Ryo Wakizaka, Shin Nishio, Daisuke Sakuma, Yosuke Ueno, Yasunari Suzuki, “Online Job Scheduler for Fault-tolerant Quantum Multiprogramming”, IEEE International Conference on Quantum Computing and Engineering (QCE2025), pp. 779-790 (2025)
 1. Takumi Kobori, Yasunari Suzuki, Yosuke Ueno, Teruo Tanimoto, Synge Todo, Yuuki Tokunaga, “LSQCA: Resource-Efficient Load/Store Architecture for Limited-Scale Fault-Tolerant Quantum Computing”, 2025 IEEE International Symposium on High-Performance Computer Architecture (HPCA), pp. 304-320 (2025)
 1. Shinobu Saito, Suguru Endo, Yasunari Suzuki, “Towards N-version Quantum Software Systems for Reliable Classical-Quantum Computing”, The 35th IEEE International Symposium on Software Reliability Engineering (ISSRE2024), pp. 119-120 (2024)
@@ -44,6 +45,8 @@ lang: ja
 
 ## プレプリント
 
+1. Yuga Hirai, Shota Ikari, Yosuke Ueno, Yasunari Suzuki, "A 2d x d x d Spacetime Volume Implementation of a Logical S Gate in the Surface Code", arxiv preprint arXiv:2604.13632 (2026)
+1. Wang Liao, Rei Tokami, Yasunari Suzuki, "Design automation and space-time reduction for surface-code logical operations using a SAT-based EDA kernel compatible with general encodings", arxiv preprint arXiv:2604.12560 (2026)
 1. Yuga Hirai, Shota Ikari, Yosuke Ueno, Yasunari Suzuki, "No More Hooks in the Surface Code: Distance-Preserving Syndrome Extraction for Arbitrary Layouts at Minimum Depth", arxiv preprint arXiv:2603.01628 (2026)
 1. Soshun Naito, Yasunari Suzuki, Yuuki Tokunaga, “Network-Based Quantum Computing: an efficient design framework for many-small-node distributed fault-tolerant quantum computing”, arxiv preprint arXiv:2601.09374 (2026)
 1. Kaito Wada, Hiroyuki Harada, Yasunari Suzuki, Yuuki Tokunaga, Naoki Yamamoto, Suguru Endo, “Tradeoffs between quantum and classical resources in linear combination of unitaries”, arxiv preprint arXiv:2512.06260 (2025)
@@ -170,6 +173,8 @@ lang: ja
 
 ## 招待講演 (国内)
 
+1. Yasunari Suzuki, “System design for fault-tolerant quantum computers", Quantum Information and Quantum Computation (2026)
+1. 鈴木泰成, “量子誤り訂正, 量子計算機アーキテクチャ", 量子計算理論スクール (2026)
 1. 鈴木泰成, “誤り耐性量子計算機のシステム設計と課題”, ムーンショット目標6 公開シンポジウム2026 ～誤り耐性型汎用量子コンピュータの実現を目指して～ (2026)
 1. Yasunari Suzuki, "Design and Development of Fault-Tolerant Quantum Computers", Q-LEAP Workshop: Towards Building a Large-Scale Quantum Computer (2026)
 1. Yasunari Suzuki, “Efficient FTQC designs based on properties of quantum programs”, Quantum Error Correction Theory Workshop for Young Researchers (2025)

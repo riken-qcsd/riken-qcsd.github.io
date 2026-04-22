@@ -51,4 +51,5 @@ lang: ja
 
 - 第6回量子ソフトウェア研究会 優秀発表賞 (2022)
 - MIT Technology Review Innovator Under 35 (2022)
+- 文部科学省 若手研究者賞 (2026)
 

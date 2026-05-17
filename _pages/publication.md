@@ -6,8 +6,8 @@ lang: ja
 
 ## 原著論文 (査読付き論文誌)
 
-1. Kou Hamada, Yasunari Suzuki, Yuuki Tokunaga, “Efficient and high-performance routing of lattice-surgery paths on three-dimensional lattice”, Quantum, Accepted (2026)
-1. Yuya Maeda, Yasunari Suzuki, Toshiki Kobayashi, Takashi Yamamoto, Yuuki Tokunaga, Keisuke Fujii, “Logical entanglement distribution between distant 2D array qubits”, Physical Review Research, accepted (2026)
+1. Kou Hamada, Yasunari Suzuki, Yuuki Tokunaga, “Efficient and high-performance routing of lattice-surgery paths on three-dimensional lattice”, Quantum 10, 2061 (2026)
+1. Yuya Maeda, Yasunari Suzuki, Toshiki Kobayashi, Takashi Yamamoto, Yuuki Tokunaga, Keisuke Fujii, “Logical entanglement distribution between distant 2D array qubits”, Physical Review Research 8, 013282 (2026)
 1. Yoshiki Sunada, Shingo Kono, Jesper Ilves, Takanori Sugiyama, Yasunari Suzuki, Tsuyoshi Okubo, Shuhei Tamate, Yutaka Tabuchi, Yasunobu Nakamura, “Efficient tomography of microwave photonic cluster states”, PRX Quantum 7, 010323 (2026)
 1. Tim Keller, Seigo Kikura, Rui Asaoka, Yasunari Suzuki, Yuuki Tokunaga, Takao Aoki, “Addressing requirements for crosstalk-free quantum-gate operation in many-body nanofiber cavity QED systems”, Journal of the Optical Society of America B 43, 2, pp.351-365 (2026)
 1. Ryo Matsuda, Ryutaro Ohira, Toshi Sumida, Hidehisa Shiomi, Akinori Machino, Shinichi Morisaka, Keisuke Koike, Takefumi Miyoshi, Yoshinori Kurimoto, Yuuya Sugita, Yosuke Ito, Yasunari Suzuki, Peter A. Spring, Shiyu Wang, Shuhei Tamate, Yutaka Tabuchi, Yasunobu Nakamura, Kazuhisa Ogawa, Makoto Negoro, “Selective Excitation of Superconducting Qubits with a Shared Control Line through Pulse Shaping”, Physical Review Research 8, L012003 (2026)
@@ -45,6 +45,7 @@ lang: ja
 
 ## プレプリント
 
+1. Hsueh-Hao Lu, Yasunari Suzuki, Yasunobu Nakamura, En-Jui Kuo, "Quantum Magic in early FTQC: From Diagonal Clifford Hierarchy No-Go Theorems to Architecture Design Blueprints", arxiv preprint arXiv:2605.04758 (2026)
 1. Yuga Hirai, Shota Ikari, Yosuke Ueno, Yasunari Suzuki, "A 2d x d x d Spacetime Volume Implementation of a Logical S Gate in the Surface Code", arxiv preprint arXiv:2604.13632 (2026)
 1. Wang Liao, Rei Tokami, Yasunari Suzuki, "Design automation and space-time reduction for surface-code logical operations using a SAT-based EDA kernel compatible with general encodings", arxiv preprint arXiv:2604.12560 (2026)
 1. Yuga Hirai, Shota Ikari, Yosuke Ueno, Yasunari Suzuki, "No More Hooks in the Surface Code: Distance-Preserving Syndrome Extraction for Arbitrary Layouts at Minimum Depth", arxiv preprint arXiv:2603.01628 (2026)
@@ -173,7 +174,7 @@ lang: ja
 
 ## 招待講演 (国内)
 
-1. Yasunari Suzuki, “System design for fault-tolerant quantum computers", Quantum Information and Quantum Computation (2026)
+1. Yasunari Suzuki, “System design for fault-tolerant quantum computers", Quantum Information and Quantum Computation (Lecture at Dpeartment of Computer Science, The University of Tokyo) (2026)
 1. 鈴木泰成, “量子誤り訂正, 量子計算機アーキテクチャ", 量子計算理論スクール (2026)
 1. 鈴木泰成, “誤り耐性量子計算機のシステム設計と課題”, ムーンショット目標6 公開シンポジウム2026 ～誤り耐性型汎用量子コンピュータの実現を目指して～ (2026)
 1. Yasunari Suzuki, "Design and Development of Fault-Tolerant Quantum Computers", Q-LEAP Workshop: Towards Building a Large-Scale Quantum Computer (2026)
@@ -233,6 +234,7 @@ lang: ja
 1. 鈴木泰成, 部谷謙太郎, 田渕豊, 中村泰信, 特許第7457325号「最適化装置, 評価装置, それらの方法, およびプログラム」2020年出願, 2024年登録
 1. 鈴木泰成, 杉山太香典, 部谷謙太郎, 特許第7212891号「量子演算装置及び方法」2019年出願, 2023年登録
 
+
 ## 特許 (開示済み、審査中)
 
 1. 鈴木泰成, 徳永裕己, 内藤壮俊, 特開2025-165750「計算装置」2024年出願, 2025年公開
@@ -252,6 +254,7 @@ lang: ja
 
 ## 記事執筆
 
+1. 鈴木泰成, "誤り耐性量子計算アーキテクチャ", 株式会社エヌ・ティー・エス 量子イノベーションハンドブック (2026)
 1. 吉岡信行, 大久保毅, 鈴木泰成, 水上渉, "物性物理における『量子加速』の探索", 応用物理学会 学会誌 応用物理 3月号 (2024) 
 1. 鈴木泰成, ”超伝導量子コンピュータのシステムの設計と開発”, NTT技術ジャーナル 9月号 (2023)
 1. 鈴木泰成, "誤り耐性量子計算", 映像情報メディア学会 2022-2023年連載講座　量子コンピューティング（第五回）(2022)

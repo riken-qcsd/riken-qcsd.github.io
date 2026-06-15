@@ -45,6 +45,7 @@ lang: ja
 
 ## プレプリント
 
+1. kinori Machino, Kazuhisa Ogawa, Takefumi Miyoshi, Hidehisa Shiomi, Shinichi Morisaka, Ryo Matsuda, Nilton F. G. Filho, Koichiro Ban, Takafumi Miyanaga, Keisuke Koike, Ryutaro Ohira, Toshi Sumida, Yoshinori Kurimoto, Yuuya Sugita, Yosuke Ito, Yasunari Suzuki, Peter A. Spring, Shiyu Wang, Hiroto Mukai, Arvind Mamgain, Shuhei Tamate, Yutaka Tabuchi, Yasunobu Nakamura, Makoto Negoro, "QuBE/Qubex: an integrated hardware-software system for superconducting qubit experiments with broadband control", arxiv preprint arXiv:2606.13010 (2026)
 1. Hsueh-Hao Lu, Yasunari Suzuki, Yasunobu Nakamura, En-Jui Kuo, "Quantum Magic in early FTQC: From Diagonal Clifford Hierarchy No-Go Theorems to Architecture Design Blueprints", arxiv preprint arXiv:2605.04758 (2026)
 1. Yuga Hirai, Shota Ikari, Yosuke Ueno, Yasunari Suzuki, "A 2d x d x d Spacetime Volume Implementation of a Logical S Gate in the Surface Code", arxiv preprint arXiv:2604.13632 (2026)
 1. Wang Liao, Rei Tokami, Yasunari Suzuki, "Design automation and space-time reduction for surface-code logical operations using a SAT-based EDA kernel compatible with general encodings", arxiv preprint arXiv:2604.12560 (2026)

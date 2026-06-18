@@ -11,7 +11,7 @@ lang: ja
 - [井元 隆史](./timoto/) / 特別研究員 / qLDPC符号, リソース見積もり, 量子ダイナミクス, 数理物理学 / takashi.imoto--at--riken.jp
 - [上野 洋典](./yueno/) / 研究員 / 量子計算機アーキテクチャ, 超伝導デジタル回路 / yosuke.ueno--at--riken.jp
 - [Cheng-Yun Hsieh](https://scholar.google.com/citations?user=0JeYRxAAAAAJ) / 訪問研究員 / 量子計算機の設計検証 / cheng-yun.hsieh--at--riken.jp
-- [Junjie Luo](https://dblp.org/pid/312/6749.html) / 特別研究員 / junjie.luo--at--riken.jp
+- [Junjie Luo](./jluo/) / 特別研究員 / junjie.luo--at--riken.jp
 
 メールアドレスは`--at--`を`@`に置き換えてください。
 

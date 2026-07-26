@@ -32,7 +32,9 @@ lang: en
 
 ## Original paper (Peer-reviewed conference)
 
-1. Qi Zanhe, David Clarino, Shigeru Yamashita, Yasunari Suzuki, "Reducing T-depth in Quantum Oracles via Simultaneous Decomposition of MCT Gates", IEEE International Symposium on Multiple-Valued Logic 2026, Accepted (2026)
+1. Shota Ikari, Yuga Hirai, Yosuke Ueno, Yasunari Suzuki, Hiroshi Nakamura, "Circuit-Level Implementation and Evaluation of Logical SH Gates in the Surface Code", IEEE International Conference on Quantum Computing and Engineering (QCE2026) Poster Program, Accepted (2026)
+1. Shintaro Sato, Yasunari Suzuki, “Scheduling of syndrome measurements with a few ancillary qubits”, IEEE International Conference on Quantum Computing and Engineering (QCE2026), Accepted (2026)
+1. Qi Zanhe, David Clarino, Shigeru Yamashita, Yasunari Suzuki, "Reducing T-depth in Quantum Oracles via Simultaneous Decomposition of MCT Gates", IEEE International Symposium on Multiple-Valued Logic 2026 (ISMVL2026), Accepted (2026)
 1. Ryo Wakizaka, Shin Nishio, Daisuke Sakuma, Yosuke Ueno, Yasunari Suzuki, “Online Job Scheduler for Fault-tolerant Quantum Multiprogramming”, IEEE International Conference on Quantum Computing and Engineering (QCE2025), pp. 779-790 (2025)
 1. Takumi Kobori, Yasunari Suzuki, Yosuke Ueno, Teruo Tanimoto, Synge Todo, Yuuki Tokunaga, “LSQCA: Resource-Efficient Load/Store Architecture for Limited-Scale Fault-Tolerant Quantum Computing”, 2025 IEEE International Symposium on High-Performance Computer Architecture (HPCA), pp. 304-320 (2025)
 1. Shinobu Saito, Suguru Endo, Yasunari Suzuki, “Towards N-version Quantum Software Systems for Reliable Classical-Quantum Computing”, The 35th IEEE International Symposium on Software Reliability Engineering (ISSRE2024), pp. 119-120 (2024)
@@ -46,7 +48,8 @@ lang: en
 
 ## Preprint
 
-1. kinori Machino, Kazuhisa Ogawa, Takefumi Miyoshi, Hidehisa Shiomi, Shinichi Morisaka, Ryo Matsuda, Nilton F. G. Filho, Koichiro Ban, Takafumi Miyanaga, Keisuke Koike, Ryutaro Ohira, Toshi Sumida, Yoshinori Kurimoto, Yuuya Sugita, Yosuke Ito, Yasunari Suzuki, Peter A. Spring, Shiyu Wang, Hiroto Mukai, Arvind Mamgain, Shuhei Tamate, Yutaka Tabuchi, Yasunobu Nakamura, Makoto Negoro, "QuBE/Qubex: an integrated hardware-software system for superconducting qubit experiments with broadband control", arxiv preprint arXiv:2606.13010 (2026)
+1. Kou Hamada, Hiroki Hamaguchi, Yosuke Ueno, Yasunari Suzuki, Teruo Tanimoto, Nobuyuki Yoshioka, "Bounded-depth spacetime lattice surgery for resource-efficient fault-tolerant quantum computation", arxiv preprint arXiv:2606.21192 (2026)
+1. Akinori Machino, Kazuhisa Ogawa, Takefumi Miyoshi, Hidehisa Shiomi, Shinichi Morisaka, Ryo Matsuda, Nilton F. G. Filho, Koichiro Ban, Takafumi Miyanaga, Keisuke Koike, Ryutaro Ohira, Toshi Sumida, Yoshinori Kurimoto, Yuuya Sugita, Yosuke Ito, Yasunari Suzuki, Peter A. Spring, Shiyu Wang, Hiroto Mukai, Arvind Mamgain, Shuhei Tamate, Yutaka Tabuchi, Yasunobu Nakamura, Makoto Negoro, "QuBE/Qubex: an integrated hardware-software system for superconducting qubit experiments with broadband control", arxiv preprint arXiv:2606.13010 (2026)
 1. Hsueh-Hao Lu, Yasunari Suzuki, Yasunobu Nakamura, En-Jui Kuo, "Quantum Magic in early FTQC: From Diagonal Clifford Hierarchy No-Go Theorems to Architecture Design Blueprints", arxiv preprint arXiv:2605.04758 (2026)
 1. Yuga Hirai, Shota Ikari, Yosuke Ueno, Yasunari Suzuki, "A 2d x d x d Spacetime Volume Implementation of a Logical S Gate in the Surface Code", arxiv preprint arXiv:2604.13632 (2026)
 1. Wang Liao, Rei Tokami, Yasunari Suzuki, "Design automation and space-time reduction for surface-code logical operations using a SAT-based EDA kernel compatible with general encodings", arxiv preprint arXiv:2604.12560 (2026)
@@ -54,7 +57,6 @@ lang: en
 1. Soshun Naito, Yasunari Suzuki, Yuuki Tokunaga, “Network-Based Quantum Computing: an efficient design framework for many-small-node distributed fault-tolerant quantum computing”, arxiv preprint arXiv:2601.09374 (2026)
 1. Kaito Wada, Hiroyuki Harada, Yasunari Suzuki, Yuuki Tokunaga, Naoki Yamamoto, Suguru Endo, “Tradeoffs between quantum and classical resources in linear combination of unitaries”, arxiv preprint arXiv:2512.06260 (2025)
 1. Wenxuan Fan, Yasunari Suzuki, Gokul Subramanian Ravi, Yosuke Ueno, Koji Inoue, Teruo Tanimoto, “Accelerating BP-OSD Decoder for QLDPC Codes with Local Syndrome-Based Preprocessing”, arxiv preprint arXiv:2509.01892 (2025)
-1. Shintaro Sato, Yasunari Suzuki, “Scheduling of syndrome measurements with a few ancillary qubits”, arxiv preprint arXiv:2508.07913 (2025)
 1. Rui Asaoka, Yasunari Suzuki, Yuuki Tokunaga, “Fault-tolerant logical state construction based on cavity-QED network”, arxiv preprint arXiv:2503.11500 (2025)
 1. Shigeo Hakkaku, Yasunari Suzuki, Yuuki Tokunaga, Suguru Endo, “Data-Efficient Error Mitigation for Physical and Algorithmic Errors in a Hamiltonian Simulation”, arxiv preprint arXiv:2503.05052 (2025)
 1. Yosuke Ueno, Taku Saito, Teruo Tanimoto, Yasunari Suzuki, Yutaka Tabuchi, Shuhei Tamate, Hiroshi Nakamura, “High-Performance and Scalable Fault-Tolerant Quantum Computation with Lattice Surgery on a 2.5D Architecture”, arxiv preprint arXiv:2411.17519 (2024)
@@ -100,6 +102,7 @@ lang: en
 
 ## Invited talk (International)
 
+1. Yasunari Suzuki, “Building the Classical–Quantum Stack: What Do We Need from Each Other?”, IEEE Symposium on Low-Power and High-Speed Chips and Systems (COOL Chips 29) Panel Discussion (2026)
 1. Yasunari Suzuki, “Load/Store architecture for fault-tolerant quantum computing”, YITP Logical gates for Encoded Qubits Workshop (2025)
 1. Yasunari Suzuki, “Software for scalable controls of superconducting qubits”, Quantum Innovation 2024 Satellite Workshop: Quantum software, middleware, and controllers for near-term quantum computing systems (2024)
 1. Yasunari Suzuki, “Resource Estimation and Optimization for Fault-Tolerant Quantum Computing with Trapped Ions”, Advanced Quantum Technologies for Trapped Ions (AQTTI) (2024)
@@ -121,6 +124,8 @@ lang: en
 
 ## Conference (Domestic without peer-review)
 
+1. 鈴木 泰成, 大野 真暉, 阪本 哲郎, 舘野 元, 千田 拓実, 佐々木 大哉, 宮永 崇史, 小津 泰生, 川久保 亮, "Qurationを用いた誤り耐性量子計算機の設計と評価", 第18回 量子ソフトウェア研究会 (2026)
+1. 井元 隆史, 鈴木 泰成, "断熱ショートカットを用いた位相推定の加速と誤り耐性量子計算におけるリソース評価", 第18回 量子ソフトウェア研究会 (2026)
 1. 小松 一彦, 髙木 崇志, 佐藤 雅之, 伊達 進, 片桐 孝洋, 百瀬 真太郎, 高野 了成, 深見 俊輔, 谷本 輝夫, 永山 翔太, 鈴木 泰成, "HPCI整備計画調査研究 量子等ハイブリッド（連携）運用環境による次世代計算基盤環境の構築を目指して", 第203回ハイパフォーマンスコンピューティング・第17回量子ソフトウェア合同研究発表会 (2026)
 1. 猪狩 翔太, 平井 優我, 上野 洋典, 鈴木 泰成, 山本 直樹, 中村 宏, "表面符号上のTransversal CNOTゲートを対象としたwindow decoderの検討", 第203回ハイパフォーマンスコンピューティング・第17回量子ソフトウェア合同研究発表会 (2026)
 1. Wenxuan Fan, Yasunari Suzuki, Gokul, Ravi, Yosuke Ueno, Koji Inoue, Teruo Tanimoto, "Generalization and Comprehensive Evaluation of BP-OSD Acceleration via Local Syndrome-Based Preprocessing for QLDPC Codes", 第203回ハイパフォーマンスコンピューティング・第17回量子ソフトウェア合同研究発表会 (2026)
@@ -175,6 +180,7 @@ lang: en
 
 ## Invited talk (Domestic)
 
+1. 鈴木泰成, "Qurationを用いた誤り耐性量子計算機の設計と改善", 一般社団法人 量子技術による新産業創出協議 (Q-STAR) 量子HPC連携活用部会 (2026)
 1. Yasunari Suzuki, “System design for fault-tolerant quantum computers", Quantum Information and Quantum Computation (2026)
 1. 鈴木泰成, “量子誤り訂正, 量子計算機アーキテクチャ", 量子計算理論スクール (2026)
 1. 鈴木泰成, “誤り耐性量子計算機のシステム設計と課題”, ムーンショット目標6 公開シンポジウム2026 ～誤り耐性型汎用量子コンピュータの実現を目指して～ (2026)

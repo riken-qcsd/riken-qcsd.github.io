@@ -41,6 +41,7 @@ lang: en
 
 ## Academic Service
 
+- International Conference on Parallel Processing (ICPP) 2026: PC Member
 - Design Automation Conference (DAC) 2026: PC Member  
 - Quantum Innovation 2023, 2024, 2025: Organizing member  
 - Quantum Innovation Satellite Workshop 2023, 2024, 2025: Organizer  
@@ -53,4 +54,5 @@ lang: en
 
 - Excellent Presentation Award, 6th Quantum Software Workshop (2022)  
 - MIT Technology Review Innovator Under 35 (2022)
-
+- MEXT The Young Scientists' Award (2026)
+- IPSJ Software Japan Award (2026)

@@ -10,8 +10,6 @@ The Quantum Computer System Design Research Team is recruiting motivated researc
 
 RIKEN recruits researchers who have recently obtained a Ph.D., or who expect to obtain one soon, as Special Postdoctoral Researchers (SPDR). In addition to a salary, SPDR positions include an individual research budget. If you are interested in pursuing a research career, please consider this opportunity. For details, please see the [SPDR program page](https://www.riken.jp/en/careers/programs/spdr/index.html).If you plan to apply and would like to join our team, please contact a faculty member in advance.
 
-The Quantum Computer System Design Research Team is also recruiting postdoctoral researchers. For details and employment conditions, please refer to the [team’s recruitment page](https://www.riken.jp/en/careers/researchers/20250401_2/index.html).
-
 ## Positions for Students
 
 At the Department of Applied Physics, Graduate School of Engineering, The University of Tokyo, Team Director Suzuki will head a laboratory as a Visiting Associate Professor. For the 2026 and 2027 academic years, students may apply to enter the master's or doctoral program through the department's graduate admissions process. Please check the [Graduate Admissions Information](https://www.ap.t.u-tokyo.ac.jp/en/information.html) for the Department of Applied Physics for the relevant academic year for further details.

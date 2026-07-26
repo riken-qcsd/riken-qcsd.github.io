@@ -39,6 +39,7 @@ lang: ja
 
 ## 学会運営や査読委員など
 
+- International Conference on Parallel Processing (ICPP) 2026: 査読委員
 - Design Automation Conference (DAC) 2026: 査読委員
 - Quantum Innovation 2023, 2024, 2025: 運営委員
 - Quantum Innovation Satellite Workshop 2023, 2024, 2025: オーガナイザ
@@ -52,4 +53,4 @@ lang: ja
 - 第6回量子ソフトウェア研究会 優秀発表賞 (2022)
 - MIT Technology Review Innovator Under 35 (2022)
 - 文部科学省 若手研究者賞 (2026)
-
+- 情報処理学会 ソフトウエアジャパンアワード (2026)

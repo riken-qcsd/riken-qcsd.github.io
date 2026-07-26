@@ -13,7 +13,7 @@ Because many of our research themes are grounded in how conventional computers w
 - Improving quantum computer efficiency by running multiple programs concurrently: [QS9](https://ipsj.ixsq.nii.ac.jp/records/226758) (2023) [QS14](https://ipsj.ixsq.nii.ac.jp/records/2001303) (2025) **Student Encouragement Award**
 - Reducing the required device scale by placing infrequently used data in slower but more efficient memory: [QS11](https://ipsj.ixsq.nii.ac.jp/records/233693) (2024) **Best Presentation Award**
 - Accelerating distributed quantum computing by overlapping communication and computation: [QS14](https://ipsj.ixsq.nii.ac.jp/records/2001242) (2025)
-- Improving speed while maintaining accuracy by switching quantum error-correction methods depending on the situation: QS16 (2026)
+- Improving speed while maintaining accuracy by switching quantum error-correction methods depending on the situation: [QS16](https://ipsj.ixsq.nii.ac.jp/records/2008061) (2026)
 
 ## Streamlining internal processing in quantum computers using algorithms and data structures
 - Efficiently managing locations affected by special quantum errors such as loss errors using a Fenwick tree: [QS5](https://ipsj.ixsq.nii.ac.jp/records/217649) (2022) **Best Presentation Award**
@@ -22,6 +22,7 @@ Because many of our research themes are grounded in how conventional computers w
 - Reproducing large-scale continuous-variable photonic quantum computing by combining small-scale photonic quantum computations: [QIT48](https://ken.ieice.org/ken/paper/20230530qCux/) (2023)
 - Efficient execution by decomposing complex quantum-computing subroutines into products of smaller operations: [QIT48](https://ken.ieice.org/ken/paper/20230530VCuZ/) (2022)
 - Reducing instruction scheduling to a 3D pathfinding problem and solving it as a graph problem: [QS8](https://ipsj.ixsq.nii.ac.jp/records/225055) (2023) **Student Encouragement Award**
+- Accelerating error estimation by roughly identifying likely error locations in advance: [QS16](https://ipsj.ixsq.nii.ac.jp/records/2008062) **Student Encouragement Award**
 
 ## Safely designing quantum computing functionality and evaluating it quickly using supercomputers and programming
 - Proposing a safe and efficient way to describe complex quantum operations defined recursively: [QS5](https://ipsj.ixsq.nii.ac.jp/records/217628) (2022)

@@ -6,6 +6,7 @@ lang: ja
 
 ## 原著論文 (査読付き論文誌)
 
+1. Soshun Naito, Yasunari Suzuki, Yuuki Tokunaga, “Network-Based Quantum Computing: an efficient design framework for many-small-node distributed fault-tolerant quantum computing”, IEEE Transactions on Quantum Engineering, pp.1-33 (2026)
 1. Kou Hamada, Yasunari Suzuki, Yuuki Tokunaga, “Efficient and high-performance routing of lattice-surgery paths on three-dimensional lattice”, Quantum 10, 2061 (2026)
 1. Yuya Maeda, Yasunari Suzuki, Toshiki Kobayashi, Takashi Yamamoto, Yuuki Tokunaga, Keisuke Fujii, “Logical entanglement distribution between distant 2D array qubits”, Physical Review Research 8, 013282 (2026)
 1. Yoshiki Sunada, Shingo Kono, Jesper Ilves, Takanori Sugiyama, Yasunari Suzuki, Tsuyoshi Okubo, Shuhei Tamate, Yutaka Tabuchi, Yasunobu Nakamura, “Efficient tomography of microwave photonic cluster states”, PRX Quantum 7, 010323 (2026)
@@ -47,13 +48,13 @@ lang: ja
 
 ## プレプリント
 
+1. Shota Ikari, Yuga Hirai, Yasunari Suzuki, Hiroshi Nakamura, Yosuke Ueno, "Do Not Let CNOTs Overwhelm the Decoder: Scheduling Transversal Gates for Fast FTQC", arxiv preprint arXiv:2608.11719 (2026)
 1. Kou Hamada, Hiroki Hamaguchi, Yosuke Ueno, Yasunari Suzuki, Teruo Tanimoto, Nobuyuki Yoshioka, "Bounded-depth spacetime lattice surgery for resource-efficient fault-tolerant quantum computation", arxiv preprint arXiv:2606.21192 (2026)
 1. Akinori Machino, Kazuhisa Ogawa, Takefumi Miyoshi, Hidehisa Shiomi, Shinichi Morisaka, Ryo Matsuda, Nilton F. G. Filho, Koichiro Ban, Takafumi Miyanaga, Keisuke Koike, Ryutaro Ohira, Toshi Sumida, Yoshinori Kurimoto, Yuuya Sugita, Yosuke Ito, Yasunari Suzuki, Peter A. Spring, Shiyu Wang, Hiroto Mukai, Arvind Mamgain, Shuhei Tamate, Yutaka Tabuchi, Yasunobu Nakamura, Makoto Negoro, "QuBE/Qubex: an integrated hardware-software system for superconducting qubit experiments with broadband control", arxiv preprint arXiv:2606.13010 (2026)
 1. Hsueh-Hao Lu, Yasunari Suzuki, Yasunobu Nakamura, En-Jui Kuo, "Quantum Magic in early FTQC: From Diagonal Clifford Hierarchy No-Go Theorems to Architecture Design Blueprints", arxiv preprint arXiv:2605.04758 (2026)
 1. Yuga Hirai, Shota Ikari, Yosuke Ueno, Yasunari Suzuki, "A 2d x d x d Spacetime Volume Implementation of a Logical S Gate in the Surface Code", arxiv preprint arXiv:2604.13632 (2026)
 1. Wang Liao, Rei Tokami, Yasunari Suzuki, "Design automation and space-time reduction for surface-code logical operations using a SAT-based EDA kernel compatible with general encodings", arxiv preprint arXiv:2604.12560 (2026)
 1. Yuga Hirai, Shota Ikari, Yosuke Ueno, Yasunari Suzuki, "No More Hooks in the Surface Code: Distance-Preserving Syndrome Extraction for Arbitrary Layouts at Minimum Depth", arxiv preprint arXiv:2603.01628 (2026)
-1. Soshun Naito, Yasunari Suzuki, Yuuki Tokunaga, “Network-Based Quantum Computing: an efficient design framework for many-small-node distributed fault-tolerant quantum computing”, arxiv preprint arXiv:2601.09374 (2026)
 1. Kaito Wada, Hiroyuki Harada, Yasunari Suzuki, Yuuki Tokunaga, Naoki Yamamoto, Suguru Endo, “Tradeoffs between quantum and classical resources in linear combination of unitaries”, arxiv preprint arXiv:2512.06260 (2025)
 1. Wenxuan Fan, Yasunari Suzuki, Gokul Subramanian Ravi, Yosuke Ueno, Koji Inoue, Teruo Tanimoto, “Accelerating BP-OSD Decoder for QLDPC Codes with Local Syndrome-Based Preprocessing”, arxiv preprint arXiv:2509.01892 (2025)
 1. Rui Asaoka, Yasunari Suzuki, Yuuki Tokunaga, “Fault-tolerant logical state construction based on cavity-QED network”, arxiv preprint arXiv:2503.11500 (2025)

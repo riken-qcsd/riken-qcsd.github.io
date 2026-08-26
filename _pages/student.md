@@ -37,9 +37,9 @@ lang: ja
 - 中性原子とHGP符号を用いたアーキテクチャの基本命令セットを作る: [QS14](https://ipsj.ixsq.nii.ac.jp/records/2001213) (2025)
 
 ## 量子計算機の開発プロジェクトにメンバーとして、量子計算機を制御したり開発するためのソフトウェアを開発する
-- 研究で必要になる様々な機能を扱える高速な量子回路シミュレータを開発する ([github](https://github.com/qulacs/qulacs))
-- 量子計算機のプログラムを記述してコンパイルし、実行時間や計算機の要求性能を評価するツールチェインを開発する ([github](https://github.com/quration/quration))
-- 集積化された超伝導量子ビットを効率的かつ自動的に校正し制御するソフトウェアを開発する ([解説ページ](https://group.ntt/jp/newsrelease/2023/03/24/230324a.html))
+- 研究で必要になる様々な機能を扱える高速な量子回路シミュレータを開発する: [github](https://github.com/qulacs/qulacs)
+- 量子計算機のプログラムを記述してコンパイルし、実行時間や計算機の要求性能を評価するツールチェインを開発する: [github](https://github.com/quration/quration) [QS18](https://ipsj.ixsq.nii.ac.jp/records/2010275) **優秀発表賞** (2026)
+- 集積化された超伝導量子ビットを効率的かつ自動的に校正し制御するソフトウェアを開発する: [解説ページ](https://group.ntt/jp/newsrelease/2023/03/24/230324a.html)
 
 ## 過去のプレスリリースの解説記事
 - メモリとプロセッサを分離した新たな量子コンピュータのアーキテクチャを提案――移植性の優れた高メモリ効率な設計で実用的な量子計算への道を切り拓く――  ([解説ページ](https://group.ntt/jp/newsrelease/2025/03/04/250304a.html))

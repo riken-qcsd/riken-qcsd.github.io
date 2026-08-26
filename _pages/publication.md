@@ -32,6 +32,7 @@ lang: ja
 
 ## 原著論文 (査読付き国際会議)
 
+1. Akinori Machino, Kazuhisa Ogawa, Takefumi Miyoshi, Hidehisa Shiomi, Shinichi Morisaka, Ryo Matsuda, Nilton F. G. Filho, Koichiro Ban, Takafumi Miyanaga, Keisuke Koike, Ryutaro Ohira, Toshi Sumida, Yoshinori Kurimoto, Yuuya Sugita, Yosuke Ito, Yasunari Suzuki, Peter A. Spring, Shiyu Wang, Hiroto Mukai, Arvind Mamgain, Shuhei Tamate, Yutaka Tabuchi, Yasunobu Nakamura, and Makoto Negoro, "Percolating Entanglement Quality: A Topology-Normalized Benchmark for Superconducting Qubit Processors", IEEE International Conference on Quantum Computing and Engineering (QCE2026) Poster Program, Accepted (2026)
 1. Shota Ikari, Yuga Hirai, Yosuke Ueno, Yasunari Suzuki, Hiroshi Nakamura, "Circuit-Level Implementation and Evaluation of Logical SH Gates in the Surface Code", IEEE International Conference on Quantum Computing and Engineering (QCE2026) Poster Program, Accepted (2026)
 1. Shintaro Sato, Yasunari Suzuki, “Scheduling of syndrome measurements with a few ancillary qubits”, IEEE International Conference on Quantum Computing and Engineering (QCE2026), Accepted (2026)
 1. Qi Zanhe, David Clarino, Shigeru Yamashita, Yasunari Suzuki, "Reducing T-depth in Quantum Oracles via Simultaneous Decomposition of MCT Gates", IEEE International Symposium on Multiple-Valued Logic 2026 (ISMVL2026), Accepted (2026)

@@ -56,3 +56,4 @@ lang: en
 - MIT Technology Review Innovator Under 35 (2022)
 - MEXT The Young Scientists' Award (2026)
 - IPSJ Software Japan Award (2026)
+- Excellent Presentation Award, 18th Quantum Software Workshop (2026)  

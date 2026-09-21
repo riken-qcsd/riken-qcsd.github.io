@@ -102,6 +102,7 @@ lang: en
 
 ## Invited talk (International)
 
+1. Yasunari Suzuki, "Distributed Fault-Tolerant Quantum Computing Exploiting Quantum Program Characteristics", IEEE Quantum Week 2026 2nd Workshop on Quantum Network Engineering (2026)
 1. Yasunari Suzuki, “Building the Classical–Quantum Stack: What Do We Need from Each Other?”, IEEE Symposium on Low-Power and High-Speed Chips and Systems (COOL Chips 29) Panel Discussion (2026)
 1. Yasunari Suzuki, “Load/Store architecture for fault-tolerant quantum computing”, YITP Logical gates for Encoded Qubits Workshop (2025)
 1. Yasunari Suzuki, “Software for scalable controls of superconducting qubits”, Quantum Innovation 2024 Satellite Workshop: Quantum software, middleware, and controllers for near-term quantum computing systems (2024)
@@ -180,6 +181,8 @@ lang: en
 
 ## Invited talk (Domestic)
 
+1. 鈴木泰成, "量子計算機の抽象化とプログラミング", プログラミングおよびプログラミング言語ワークショップ (PPL) サマースクール2026 量子プログラムのコンパイル (2026)
+1. 鈴木泰成, "誤り耐性量子計算の設計と開発", 第25回情報科学技術フォーラム (FIT2026) 量子計算の現状と展望 (2026)
 1. 鈴木泰成, "Qurationを用いた誤り耐性量子計算機の設計と改善", 一般社団法人 量子技術による新産業創出協議 (Q-STAR) 量子HPC連携活用部会 (2026)
 1. Yasunari Suzuki, “System design for fault-tolerant quantum computers", Quantum Information and Quantum Computation (2026)
 1. 鈴木泰成, “量子誤り訂正, 量子計算機アーキテクチャ", 量子計算理論スクール (2026)

@@ -14,6 +14,10 @@ lang: en
 
 Please replace `--at--` with `@` in the email addresses.
 
+## Visitor
+
+- Xiaorang Guo / Technical University of Munich
+
 ## Students (Collaborators and Trainee)
 
 - Yuga Hirai / Keio University, Yamamoto Lab, M2
@@ -24,3 +28,4 @@ Please replace `--at--` with `@` in the email addresses.
 - Hiromu Yoshimura / The University of Tokyo, Koashi Lab, M2
 - Fujii Masayoshi / The University of Osaka, Yamamoto Lab, M2
 - Hsueh-Hao Lu / The University of Tokyo, Nakamura Lab, D1
+- Soshun Naito / The University of Tokyo, Hasegawa Lab, D3

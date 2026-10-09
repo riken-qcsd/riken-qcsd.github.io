@@ -48,7 +48,7 @@ lang: en
 1. Yosuke Ueno, Masaaki Kondo, Masamitsu Tanaka, Yasunari Suzuki, Yutaka Tabuchi, "QECOOL: On-Line Quantum Error Correction with a Superconducting Decoder for Surface Code," 2021 58th ACM/IEEE Design Automation Conference (DAC), pp. 451-456 (2021)
 
 ## Preprint
-
+1. Yuga Hirai, Yasunari Suzuki, "Multi-Yoked Surface Codes", arxiv preprint arXiv:2610.04613 (2026)
 1. Shota Ikari, Yuga Hirai, Yasunari Suzuki, Hiroshi Nakamura, Yosuke Ueno, "Do Not Let CNOTs Overwhelm the Decoder: Scheduling Transversal Gates for Fast FTQC", arxiv preprint arXiv:2608.11719 (2026)
 1. Kou Hamada, Hiroki Hamaguchi, Yosuke Ueno, Yasunari Suzuki, Teruo Tanimoto, Nobuyuki Yoshioka, "Bounded-depth spacetime lattice surgery for resource-efficient fault-tolerant quantum computation", arxiv preprint arXiv:2606.21192 (2026)
 1. Akinori Machino, Kazuhisa Ogawa, Takefumi Miyoshi, Hidehisa Shiomi, Shinichi Morisaka, Ryo Matsuda, Nilton F. G. Filho, Koichiro Ban, Takafumi Miyanaga, Keisuke Koike, Ryutaro Ohira, Toshi Sumida, Yoshinori Kurimoto, Yuuya Sugita, Yosuke Ito, Yasunari Suzuki, Peter A. Spring, Shiyu Wang, Hiroto Mukai, Arvind Mamgain, Shuhei Tamate, Yutaka Tabuchi, Yasunobu Nakamura, Makoto Negoro, "QuBE/Qubex: an integrated hardware-software system for superconducting qubit experiments with broadband control", arxiv preprint arXiv:2606.13010 (2026)

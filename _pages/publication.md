@@ -31,8 +31,8 @@ lang: ja
 1. Yasunari Suzuki, Keisuke Fujii, Masato Koashi, “Efficient simulation of quantum error correction under coherent error based on non-unitary free-fermionic formalism”, Physical Review Letters 119, 190503 (2017)
 
 ## 原著論文 (査読付き国際会議)
-1. Wang Liao, Rei Tokami, Yasunari Suzuki, "KOVAL-Q: An EDA Kernel for Optimizing and Verifying Lattice Surgery Primitives with Arbitrary Surface-code Encoded Logical Qubits", 2026 IEEE International Symposium on High-Performance Computer Architecture (HPCA), Accepted (2026)
-1. Shota Ikari, Yuga Hirai, Yasunari Suzuki, Hiroshi Nakamura, Yosuke Ueno, "PACE: Enabling Fast Transversal CNOTs through Decoder-Aware Co-Design on Surface Code", 2026 IEEE International Symposium on High-Performance Computer Architecture (HPCA), Accepted (2026)
+1. Wang Liao, Rei Tokami, Yasunari Suzuki, "KOVAL-Q: An EDA Kernel for Optimizing and Verifying Lattice Surgery Primitives with Arbitrary Surface-code Encoded Logical Qubits", 2027 IEEE International Symposium on High-Performance Computer Architecture (HPCA), Accepted (2026)
+1. Shota Ikari, Yuga Hirai, Yasunari Suzuki, Hiroshi Nakamura, Yosuke Ueno, "PACE: Enabling Fast Transversal CNOTs through Decoder-Aware Co-Design on Surface Code", 2027 IEEE International Symposium on High-Performance Computer Architecture (HPCA), Accepted (2026)
 1. Yosuke Ueno, Shinichi Sunami, Toshihide Hinokuma, Yasunari Suzuki, Akihisa Goban, Hayata Yamasaki, Teruo Tanimoto, Ilkwon Byun, "NAQsim: Full-Stack Architecture Simulation Framework for Fast and Space-Efficient Neutral Atom Quantum Computing", the 59th IEEE/ACM International Symposium on Microarchitecture (MICRO), Accepted (2026)
 1. Akinori Machino, Kazuhisa Ogawa, Takefumi Miyoshi, Hidehisa Shiomi, Shinichi Morisaka, Ryo Matsuda, Nilton F. G. Filho, Koichiro Ban, Takafumi Miyanaga, Keisuke Koike, Ryutaro Ohira, Toshi Sumida, Yoshinori Kurimoto, Yuuya Sugita, Yosuke Ito, Yasunari Suzuki, Peter A. Spring, Shiyu Wang, Hiroto Mukai, Arvind Mamgain, Shuhei Tamate, Yutaka Tabuchi, Yasunobu Nakamura, and Makoto Negoro, "Percolating Entanglement Quality: A Topology-Normalized Benchmark for Superconducting Qubit Processors", IEEE International Conference on Quantum Computing and Engineering (QCE2026) Poster Program, Accepted (2026)
 1. Shota Ikari, Yuga Hirai, Yosuke Ueno, Yasunari Suzuki, Hiroshi Nakamura, "Circuit-Level Implementation and Evaluation of Logical SH Gates in the Surface Code", IEEE International Conference on Quantum Computing and Engineering (QCE2026) Poster Program, Accepted (2026)
@@ -50,6 +50,7 @@ lang: ja
 1. Yosuke Ueno, Masaaki Kondo, Masamitsu Tanaka, Yasunari Suzuki, Yutaka Tabuchi, "QECOOL: On-Line Quantum Error Correction with a Superconducting Decoder for Surface Code," 2021 58th ACM/IEEE Design Automation Conference (DAC), pp. 451-456 (2021)
 
 ## プレプリント
+1. Moeto Mishima, Toshihiko Sasaki, Yasunari Suzuki, Koji Azuma, Masato Koashi, "Connection of surface code patches based on entanglement distillation without postselection", arxiv preprint arXiv:2611.06260 (2026)
 1. Takumi Kobayashi, Hodaka Kurokawa, Yasunari Suzuki, Hideo Kosaka, "Feasibility of Distributed Fault-Tolerant Quantum Computing: From Quantum Links to Algorithms", arxiv preprint arXiv:2610.34143 (2026)
 1. Yuga Hirai, Yasunari Suzuki, "Multi-Yoked Surface Codes", arxiv preprint arXiv:2610.04613 (2026)
 1. Kou Hamada, Hiroki Hamaguchi, Yosuke Ueno, Yasunari Suzuki, Teruo Tanimoto, Nobuyuki Yoshioka, "Bounded-depth spacetime lattice surgery for resource-efficient fault-tolerant quantum computation", arxiv preprint arXiv:2606.21192 (2026)
